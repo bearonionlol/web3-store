@@ -1,0 +1,5 @@
+{
+  "name": "Solana Web3 Store",
+  "description": "A modern online store that allows customers to purchase goods using Solana (SOL) or USDC through web3 wallet integration. The store features AI-generated product descriptions powered by Gemini.",
+  "requestFramePermissions": []
+}
